@@ -6,7 +6,7 @@ import {theme} from "../App";
 const Navbar = () => {
 
 
-  let [links, setLinks] = useState(["About Us", "Our Team", "Our Campaigns", "Be a Volunteer", "Support Us"])
+  let [links, setLinks] = useState(["About Us", "Our Team", "Our Project", "Volunteer With Us", "Support Us"])
 
 
   return (
